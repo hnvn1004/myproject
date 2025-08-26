@@ -1,1 +1,2 @@
-print("Xin chào Git + Termux!")
+print("Xin chào Git + Termux phiên bản 2!")
+
